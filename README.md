@@ -40,6 +40,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shuzers/shuzers/output/snake.svg" alt="Snake animation" />
 
 ###
